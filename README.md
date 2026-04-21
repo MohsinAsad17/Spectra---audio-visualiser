@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Spectra - audio visualiser
+Real-time music visualizer built with React, Three.js & Electron. Transforms any audio into a live reactive visual experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ## Prerequisites
 
 Make sure you have the following installed before running the project:
