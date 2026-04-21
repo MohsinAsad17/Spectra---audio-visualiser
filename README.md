@@ -43,7 +43,6 @@ npm install
 
 Run the app:
 ```bash
-npm run dev           # runs in browser at localhost:5173
 npm run electron:dev  # runs as desktop app
 ```
 
